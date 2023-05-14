@@ -1,1 +1,1 @@
-# Search-Algorithms-for-Route-Navigation
+# Search Algorithms for Route Navigation
